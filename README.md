@@ -2,6 +2,18 @@
 
 A professional Spring Boot backend for a finance dashboard, featuring secure authentication, role-based access control (RBAC), and robust data processing.
 
+## 🔗 API Documentation
+
+> **Live deployment not yet configured.** Run the app locally to access interactive docs.
+
+| Resource | URL |
+|----------|-----|
+| Swagger UI (Interactive) | [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html) |
+| OpenAPI JSON Spec | [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs) |
+| OpenAPI YAML Spec | [http://localhost:8080/v3/api-docs.yaml](http://localhost:8080/v3/api-docs.yaml) |
+
+
+
 ## 🚀 Features
 
 - **User & Role Management**: Register, Log In, and assign roles (`ROLE_ADMIN`, `ROLE_ANALYST`, `ROLE_VIEWER`).
