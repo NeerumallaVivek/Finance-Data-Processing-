@@ -4,14 +4,23 @@ A professional Spring Boot backend for a finance dashboard, featuring secure aut
 
 ## 🔗 API Documentation
 
-> **Live deployment not yet configured.** Run the app locally to access interactive docs.
+> **Live deployment hosted on Render.**
 
+### 🌐 Live (Deployed)
+| Resource | URL |
+|----------|-----|
+| 🟢 Swagger UI (Interactive) | [https://finance-data-processing-v3ds.onrender.com/swagger-ui/index.html](https://finance-data-processing-v3ds.onrender.com/swagger-ui/index.html) |
+| OpenAPI JSON Spec | [https://finance-data-processing-v3ds.onrender.com/v3/api-docs](https://finance-data-processing-v3ds.onrender.com/v3/api-docs) |
+| OpenAPI YAML Spec | [https://finance-data-processing-v3ds.onrender.com/v3/api-docs.yaml](https://finance-data-processing-v3ds.onrender.com/v3/api-docs.yaml) |
+
+> ⚠️ Hosted on Render free tier — may take ~30 seconds to wake up on first request.
+
+### 💻 Local (Run Locally)
 | Resource | URL |
 |----------|-----|
 | Swagger UI (Interactive) | [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html) |
 | OpenAPI JSON Spec | [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs) |
 | OpenAPI YAML Spec | [http://localhost:8080/v3/api-docs.yaml](http://localhost:8080/v3/api-docs.yaml) |
-
 
 
 ## 🚀 Features
